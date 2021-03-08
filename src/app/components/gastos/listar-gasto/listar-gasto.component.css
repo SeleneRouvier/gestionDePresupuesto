@@ -1,0 +1,16 @@
+.row {
+  margin-top: 40px;
+}
+.sizeAlert {
+  font-size: 1.2rem;
+}
+strong {
+  text-transform: uppercase;
+  font-size: 1.2rem;
+}
+
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}

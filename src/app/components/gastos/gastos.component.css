@@ -1,0 +1,12 @@
+@media (max-width: 768px) {
+  #card1,
+  #card2 {
+    padding: 20px;
+  }
+  #card1 {
+    border-bottom: 2px solid black;
+  }
+  .card {
+    margin: 10px;
+  }
+}
